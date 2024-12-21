@@ -4,7 +4,7 @@ Hi 👋 My name is Dat Nguyen
 Web developer
 -------------
 
-I have strong experience with ReactJs
+I have more than 5 years in front-end website programming and mostly use ReactJs. After working for a while, I am confident that I have deep knowledge of the necessary languages ​​and technologies for Front-end.
 
 * 🌍  I'm based in Vietnam
 * 🖥️  See my portfolio at [https://dat-nguyen-developer.com/](http://https://dat-nguyen-developer.com/)
